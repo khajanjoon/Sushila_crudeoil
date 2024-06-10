@@ -1,2 +1,7 @@
 requests
 asyncio
+pandas
+json
+dhanhq
+datetime
+schedule
